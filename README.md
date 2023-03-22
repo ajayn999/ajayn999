@@ -1,11 +1,9 @@
-
-
-
+[![MasterHead](https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg)
 <h1 align="center">Hi 👋, I'm AJAY PARIHAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayn999" alt="ajayn999" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayn999&label=Profile%20views&color=0e75b6&style=flat" alt="ajayn999" /> </p>
 
 - 💬 Ask me about **Reactjs, Javascript ,CSS,HTM**
 
