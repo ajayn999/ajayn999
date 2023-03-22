@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg)
+[![MasterHead]([https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg](https://thumbs.dreamstime.com/z/programming-banner-concept-programming-banner-concept-vector-illustration-line-web-design-116331713.jpg))
 <h1 align="center">Hi 👋, I'm AJAY PARIHAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
