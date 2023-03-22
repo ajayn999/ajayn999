@@ -1,4 +1,4 @@
-[![MasterHead](https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4.png)
+[![MasterHead](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
 <h1 align="center">Hi 👋, I'm AJAY PARIHAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
