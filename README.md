@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayn999&label=Profile%20views&color=0e75b6&style=flat" alt="ajayn999" /> </p>
 
-- 💬 Ask me about **Reactjs, Javascript ,CSS,HTM**
+- 💬 Ask me about **Reactjs, Javascript ,CSS,HTML**
 
 - 📫 How to reach me **ajaypariharn@gmail.com**
 
